@@ -3,7 +3,7 @@
 ![.NET Standard](https://img.shields.io/badge/.NET-10.0-512BD4?style=for-the-badge&logo=dotnet)
 ![xUnit](https://img.shields.io/badge/Testes-xUnit-blue?style=for-the-badge)
 
-Projeto desenvolvido como atividade prática para a disciplina de **Gestão e Qualidade de Software** (Prof. Daniel Henrique Matos de Paiva). O objetivo é demonstrar a criação e organização de uma solução em **.NET 10** via **.NET CLI**, combinando código de produção com testes unitários no **xUnit**.
+Projeto desenvolvido como atividade prática para a disciplina. O objetivo é demonstrar a criação e organização de uma solução em **.NET 10** via **.NET CLI**, combinando código de produção com testes unitários no **xUnit**.
 
 ---
 
